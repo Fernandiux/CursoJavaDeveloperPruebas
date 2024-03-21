@@ -1,0 +1,4 @@
+servidor=193.10.10.1
+puerto=8083
+usuario=Fernando
+password=abc123
